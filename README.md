@@ -1,5 +1,3 @@
-Perfect! Here’s your final stylish and unique README.md for GitHub, with your LinkedIn link included:
-
 <h1 align="center">Hi, I'm Pooja Kumari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
@@ -21,7 +19,6 @@ Perfect! Here’s your final stylish and unique README.md for GitHub, with your 
 
 ## 🛠 Tech Stack
 
-```html
 Languages: C | C++ | Python | HTML | CSS | JavaScript
 Libraries & Frameworks: React.js (Learning...)
 
@@ -63,7 +60,6 @@ Personal Portfolio Website
 </p>
 ---
 
-✨ Fun GIF
 
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px"/>
