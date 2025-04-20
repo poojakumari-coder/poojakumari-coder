@@ -25,7 +25,7 @@ Libraries & Frameworks: React.js (Learning...)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react" alt="skills" />
 </p>
----
+
 
 💼 Projects
 
@@ -51,28 +51,18 @@ Personal Portfolio Website
   <a href="https://www.linkedin.com/in/pooja-kumari-25585b28a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pk.twinkle7@gmail.com">
     <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/poojakumari-coder">
     <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
   </a>
 </p>
----
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px"/>
+
+<p align="center"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </p>
----
-
-> “Build with passion. Code with purpose.”
 
 
-
-
-
-- pk.twinkle7@gmail.com
-- poojakumari-coder
-
-
+<p align="center">< “Build with passion. Code with purpose.”</p>
