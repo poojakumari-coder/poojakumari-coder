@@ -1,16 +1,82 @@
-## Hi there 👋
+Perfect! Here’s your final stylish and unique README.md for GitHub, with your LinkedIn link included:
 
-<!--
-**poojakumari-coder/poojakumari-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Pooja Kumari! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <i>A passionate Frontend Developer from India</i><br/>
+  <img src="https://komarev.com/ghpvc/?username=pooja-kumari&style=flat-square&color=blue" alt="profile views"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+
+- *Name:* Pooja Kumari  
+- *Role:* Frontend Developer  
+- *Education:* Undergraduate Student  
+- *Currently Learning:* React.js  
+- *Hobbies:* Coding, Music, and Exploring Tech
+
+---
+
+## 🛠 Tech Stack
+
+```html
+Languages: C | C++ | Python | HTML | CSS | JavaScript
+Libraries & Frameworks: React.js (Learning...)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react" alt="skills" />
+</p>
+---
+
+💼 Projects
+
+Myntra Clone
+
+Amazon Clone
+
+Ball and Stump Game
+
+Tic-Tac-Toe
+
+Calculator
+
+Personal Portfolio Website
+
+
+
+---
+
+🚀 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pooja-kumari-25585b28a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+---
+
+✨ Fun GIF
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300px"/>
+</p>
+---
+
+> “Build with passion. Code with purpose.”
+
+
+
+
+
+- pk.twinkle7@gmail.com
+- poojakumari-coder
+
+
